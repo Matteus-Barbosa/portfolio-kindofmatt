@@ -25,7 +25,7 @@ export default function Contact() {
         <div className="flex flex-col items-center gap-4 max-w-2xl mx-auto">
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full">
             <a
-              href="mailto:kindofmatt@proton.me"
+              href="mailto:contact@kindofmatt.com"
               className="w-full sm:w-auto min-h-[48px] inline-flex items-center justify-center gap-2 bg-[#39FF14] text-black font-bold px-6 py-3 rounded-md transition-all duration-300 hover:neon-glow hover:scale-105"
             >
               <Mail size={18} /> Email
