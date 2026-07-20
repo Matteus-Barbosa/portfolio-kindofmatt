@@ -18,7 +18,7 @@ export default function About() {
 
         <span className="block mx-auto mb-8 h-px w-16 bg-[#39FF14]" />
 
-        <p className="text-lg leading-[1.7] text-[#e0e0e0] max-w-3xl mx-auto text-center mb-20">22 year old content editor. Check out some of my work and feel free to reach out.
+        <p className="text-lg leading-[1.7] text-[#e0e0e0] max-w-3xl mx-auto text-center mb-20">Roblox content editor for YouTube. Check out some of my work and feel free to reach out.
 
         </p>
 
