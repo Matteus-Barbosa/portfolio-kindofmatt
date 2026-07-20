@@ -45,7 +45,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://ytjobs.co/talent/profile/573968"
+              href="https://ytjobs.co/talent/profile/596547"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto min-h-[48px] inline-flex items-center justify-center gap-2 bg-[#39FF14] text-black font-bold px-6 py-3 rounded-md transition-all duration-300 hover:neon-glow hover:scale-105"
